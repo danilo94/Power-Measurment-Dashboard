@@ -1,0 +1,64 @@
+.ConnectionContainer{
+    margin: 5px;
+    background-color: #222831;
+    display: flex;
+}
+
+
+.ContainersInternos{
+    margin-top: 5px;
+    margin-left: 8px;
+    height: 23px;
+    display: flex;
+}
+
+.ConnectionContainer h4{
+    font-size: 15px;
+    color: #adaeb0;
+    margin-top: 2px;
+    margin-right: 10px;
+    display: inline;
+}
+
+.connectButton {
+	background-color:#44c767;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.connectButton:hover {
+	background-color:#5cbf2a;
+}
+.connectButton:active {
+	position:relative;
+	top:1px;
+}
+
+.disconnectButton {
+	background-color:#e4685d;
+	border-radius:28px;
+	border:1px solid #e4685d;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #b23d35;
+}
+.disconnectButton:hover {
+	background-color:#eb675e;
+}
+.disconnectButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+

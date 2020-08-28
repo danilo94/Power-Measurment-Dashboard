@@ -1,0 +1,15 @@
+.Card{
+    background-color: #212124;
+    width: 160px;
+    margin: 12px;
+}
+
+.Card h1{
+
+    color: #226e36;
+}
+
+.Card h3{
+
+    color: #adaeb0;
+}

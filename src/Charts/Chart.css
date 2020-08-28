@@ -1,0 +1,17 @@
+.Chart{
+    margin: 12px;
+    background-color: #212124;
+    width: 500px;
+    height: 450px;
+}
+
+
+.Chart h3{
+    margin-left: 10px;
+    text-align: left;
+    color: #adaeb0;
+}
+
+.Chart div div{
+    margin-top: 50px;
+}
