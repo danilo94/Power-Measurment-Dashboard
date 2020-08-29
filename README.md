@@ -6,7 +6,7 @@
 
 [![Logo](https://github.com/danilo94/Power-Measurment-Dashboard/blob/master/img/measure.PNG)]
 
-### Starting the project
+### First steps to run, and build this project
 ```
 * git clone https://github.com/danilo94/Power-Measurment-Dashboard/
 * npm install - Install Dependency tree
@@ -21,7 +21,7 @@
 * Serial communication interface using json as data
 
 
-### Todo
+### ❎ Todo
 * include socket.io as input method
 * add csv file export
 
