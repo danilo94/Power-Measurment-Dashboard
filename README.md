@@ -2,7 +2,7 @@
 
 
 ## ℹ️ About
-<p align="center">This project is a tool for help makers, and electronics hobbyists to monitor the power consumption of their applications.</p>
+<p align="center">I have created this project to help electronics hobbyists and makers to measure their electronics projects using a clean interface.</p>
 
 [![Logo](https://github.com/danilo94/Power-Measurment-Dashboard/blob/master/img/measure.PNG)]
 
