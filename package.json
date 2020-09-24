@@ -15,7 +15,9 @@
     "react-dom": "^16.8.6",
     "react-input-switch": "^2.2.2",
     "serialport": "^9.0.1",
-    "update-electron-app": "^1.2.0"
+    "socket.io": "^2.3.0",
+    "update-electron-app": "^1.2.0",
+    "websocket": "^1.0.32"
   },
   "devDependencies": {
     "concurrently": "4.1.2",
