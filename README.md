@@ -4,7 +4,7 @@
 ## ℹ️ About
 <p align="center">I have created this project to help electronics hobbyists and makers to measure their electronics projects using a clean interface.</p>
 
-[![Logo](https://github.com/danilo94/Power-Measurment-Dashboard/blob/master/img/measure.PNG)]
+![Logo](https://github.com/danilo94/Power-Measurment-Dashboard/blob/master/img/measure.PNG)
 
 ### First steps to run, and build this project
 ```
