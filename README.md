@@ -19,10 +19,10 @@
 * Instant Consumption Component
 * Graphic view of the project in time
 * Serial communication interface using json as data
+* Connection via websockets
 
 
 ### ❎ Todo
-* include socket.io as input method
 * add csv file export
 
 ### 🛠 Technologies used in this project
